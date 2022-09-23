@@ -1,0 +1,15 @@
+import { CurrentRenderContext, NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import React, { useState, useEffect } from 'react';
+import { StyleSheet, TouchableHighlight, Text, TextInput, View, Button, FlatList, TouchableOpacity} from 'react-native';
+
+const ScreenB = ({ route, navigation }) => {
+    return (
+        <View style={globalStyles.container}>
+            <Text>{route.params.item.name}</Text>
+            <Text>{route.params.item.body}</Text>
+        </View>
+    )
+}
+
+export default
