@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BungeeSpice-Regular.ttf",
+      "sha1": "950f46f38eb732bed184079ed8d3d29db42b8e61"
+    },
+    {
+      "path": "assets/fonts/Cinzel-VariableFont_wght.ttf",
+      "sha1": "b07474164eb7073691db09c33b85ab3e558582aa"
+    },
+    {
+      "path": "assets/fonts/download.png",
+      "sha1": "24cfdab8d8da5a823bf5c6a6c7a00b9c5b484445"
+    },
+    {
+      "path": "assets/fonts/NovaOval-Regular.ttf",
+      "sha1": "50bfa661a404e356ef30d6b7274147f8e04869ea"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "assets/fonts/Signika-VariableFont_wght.ttf",
+      "sha1": "d7a1e9962acd9c12fe1c0adcfa47f7aef247bf52"
+    }
+  ]
+}
